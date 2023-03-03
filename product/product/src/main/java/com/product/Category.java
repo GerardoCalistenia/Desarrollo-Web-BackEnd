@@ -6,7 +6,7 @@ public class Category {
 	/*
 	 * Atributos
 	 * */
-	public int category_id;
+	public Integer category_id;
 	private String category;
 	private String acronym;
 
